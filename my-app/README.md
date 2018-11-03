@@ -10,11 +10,11 @@
 
 ## Step 2: Add a backend
 * A. Add GraphQL backend
-* B. Get the React Todo Items to show with GraphQL as endpoint - Currently here!
+* B. Get the React Todo Items to show with GraphQL as endpoint
 - Make sure to Update CORS line 13 server.js if you want to try this. It should match your react apps port
-* C. Update the setState to do mutations on GraphQL.
+* C. Create Schema, Resolvers on GraphQL and Queries and Mutations. - Currently here! USed Apollo.
 * D. Do better Error handling
-* E. Put GraphQL on Google Apps Spot
+* E. Put GraphQL on Google Apps Spot or Prisma etc.
 * F. Try multi user adding todos
 * G. Write tests.
 
